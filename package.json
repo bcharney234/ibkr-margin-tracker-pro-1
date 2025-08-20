@@ -1,5 +1,6 @@
 {
   "name": "ibkr-margin-tracker",
+  "homepage": "https://bcharney234.github.io/ibkr-margin-tracker-pro-1",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -40,25 +41,4 @@
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "@types/papaparse": "^5.3.14",
-    "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.4"
-  },
-  "jest": {
-    "transformIgnorePatterns": [
-      "/node_modules/(?!recharts)/"
-    ],
-    "setupFilesAfterEnv": [
-      "<rootDir>/jest.setup.js"
-    ],
-    "collectCoverageFrom": [
-      "src/utils/**/*.{js,jsx,ts,tsx}",
-      "!<rootDir>/node_modules/"
-    ]
-  }
-}
+
