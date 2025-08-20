@@ -1,0 +1,5 @@
+ticker,quantity,marketValue,costBasis,annualDividend,sector,cash,marginUsed
+AAPL,100,17500,15000,92,Technology,15000,55000
+MSFT,50,20000,18000,144,Technology,,
+JPM,150,22500,20000,630,Financials,,
+XOM,200,24000,21000,736,Energy,,

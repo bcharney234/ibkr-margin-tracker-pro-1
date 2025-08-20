@@ -1,0 +1,38 @@
+{
+  "cash": 15000,
+  "marginUsed": 55000,
+  "holdings": [
+    {
+      "ticker": "AAPL",
+      "quantity": 100,
+      "marketValue": 17500,
+      "costBasis": 15000,
+      "annualDividend": 92,
+      "sector": "Technology"
+    },
+    {
+      "ticker": "MSFT",
+      "quantity": 50,
+      "marketValue": 20000,
+      "costBasis": 18000,
+      "annualDividend": 144,
+      "sector": "Technology"
+    },
+    {
+      "ticker": "JPM",
+      "quantity": 150,
+      "marketValue": 22500,
+      "costBasis": 20000,
+      "annualDividend": 630,
+      "sector": "Financials"
+    },
+    {
+      "ticker": "XOM",
+      "quantity": 200,
+      "marketValue": 24000,
+      "costBasis": 21000,
+      "annualDividend": 736,
+      "sector": "Energy"
+    }
+  ]
+}
